@@ -24,7 +24,9 @@ The procedure includes the 21 selected components, an initial
 successful installation using SD1.
 
 New Zealand address search and route calculation were confirmed
-working on 21 November 2026. Detailed guide coming next.
+working on 21 November 2026.
+
+[Read the full Australia/New Zealand map update guide](fixes/row-2026-australia-nz-maps/README.md).
 
 ## How these guides are documented
 
